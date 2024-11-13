@@ -1,2 +1,3 @@
 ik wil git weer testen
-Conflicterende tekst in main branch
+
+opgelost!
